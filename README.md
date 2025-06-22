@@ -1,5 +1,6 @@
 ## About **"yjhannn"**
 
+
 ### 🛠️ Projects
 
 - **악취감시차량을 통한 악취발생원 추적 시스템 안정화(With 태성환경연구소)**
@@ -35,14 +36,31 @@
 <!-- GitHub Stats -->
 ![yjhannn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjhannn&show_icons=true&theme=default&hide_title=true)
 
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjhannn&layout=compact&theme=default)
-
 <!-- Solved.ac Tier -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yourbojusername)](https://solved.ac/yjhan1999)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yjhan1999)](https://solved.ac/yjhan1999)
 
 ---
 
+### 💻 Tech Stack
+#### Back-End
+<p dir="auto">
+<img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&amp;logoColor=white&amp;labelColor=6DB33F" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Django-092E20?logo=Django&amp;logoColor=white&amp;labelColor=092E20" style="max-width: 100%;">
+</p>
+
+#### Front-End
+<p dir="auto">
+<img src="https://img.shields.io/badge/-html5-E34F26?logo=html5&amp;logoColor=white&amp;labelColor=E34F26" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-css3-1572B6?logo=html5&amp;logoColor=white&amp;labelColor=1572B6" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&amp;logoColor=white&amp;labelColor=F7DF1E" style="max-width: 100%;">
+</p>
+
+#### DB
+<p dir="auto">
+<img src="https://img.shields.io/badge/-MySql-438CB2?logo=MySql&amp;logoColor=white&amp;labelColor=438CB2" style="max-width: 100%;">
+</p>
+
+---
 ### 📫 Contact
 
 - Email: `yjhan999@naver.com`  
