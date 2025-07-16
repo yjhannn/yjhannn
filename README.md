@@ -40,6 +40,13 @@
 
 ---
 
+### 🪪 Certification
+
+- **SQLD(SQL 개발자)**  
+  2025.04.04 취득
+
+---
+
 ### 📊 Stats
 
 <!-- GitHub Stats -->
